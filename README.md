@@ -1,0 +1,1 @@
+Run the SCRIPTS in GenerateCSV folder, in order IP, HOSTNAME, OS, Ports, Personas Then copy the Generate CSVs up a directory and run the CSV combiner
